@@ -1,0 +1,4 @@
+include ':member'
+include ':listview'
+include ':app'
+rootProject.name = "JSon"
